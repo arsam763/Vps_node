@@ -38,6 +38,7 @@ import socketserver
 import sys
 import urllib.error
 import urllib.request
+import request
 
 # ---------------------------------------------------------------------------
 # Logging
